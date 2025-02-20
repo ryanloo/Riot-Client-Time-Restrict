@@ -12,16 +12,19 @@ Hey, gamer! This script is your **game-time bouncer**—it only lets you launch 
 
 ## 🛠 Setup & Usage
 
-1. Open **config.ini** (create it if it doesn’t exist) and add this:
+1. Extract the file to any location on your computer.
+2. Open **config.ini** (create it if it doesn’t exist) and add this:
    ```ini
    [Settings]
    exe_path = C:\Riot Games\Riot Client\RiotClientServices.exe
    start_time = 18:00  # 6:00 PM
    end_time = 23:00  # 11:00 PM
    ```
-2. Copy the Riot Client shortcut to your desktop.
-3. Run Riot Client through the shortcut.
-4. If it’s **game time**, Riot Client launches. If not, better luck next time. 💀
+2. Create a shortcut of main.exe (You can rename it to Riot Client).
+3. Update the shortcut icon to the one in the icon folder.
+4. Move the shortcut to your desktop.
+4. Run Riot Client through the shortcut.
+5. If it’s **game time**, Riot Client launches. If not, better luck next time. 💀
 
 ## 📥 Download
 
