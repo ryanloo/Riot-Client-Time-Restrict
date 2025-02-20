@@ -21,10 +21,10 @@ Hey, gamer! This script is your **game-time bouncer**—it only lets you launch 
    end_time = 23:00  # 11:00 PM
    ```
 2. Create a shortcut of main.exe (You can rename it to Riot Client).
-3. Update the shortcut icon to the one in the icon folder.
+3. Update the shortcut icon to the one in the Icons folder.
 4. Move the shortcut to your desktop.
 4. Run Riot Client through the shortcut.
-5. If it’s **game time**, Riot Client launches. If not, better luck next time. 💀
+5. If it’s **game time**, Riot Client launches. If not then its time to **lock in**. 💀
 
 ## 📥 Download
 
