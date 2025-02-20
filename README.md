@@ -23,6 +23,10 @@ Hey, gamer! This script is your **game-time bouncer**—it only lets you launch 
 3. Run Riot Client through the shortcut.
 4. If it’s **game time**, Riot Client launches. If not, better luck next time. 💀
 
+## 📥 Download
+
+Get all the files you need here: [Download Now](https://drive.google.com/file/d/1QBxmc9qXljZZ-_CFJF-NB5iihuglaoMK/view?usp=drive_link)
+
 ## 📝 Notes
 
 - Time is in **24-hour format** .
